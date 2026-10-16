@@ -16,8 +16,8 @@
 | Si eres... | Empieza por... |
 |---|---|
 | 🎯 **Reclutador / RRHH** | [Resumen ejecutivo](#-resumen-ejecutivo) |
-| 🌱 **Junior en datos / software** | [Guía para principiantes](#-guía-para-principiantes) |
 | 👀 **Solo curioso** | [¿Qué problema resuelve?](#-qué-problema-resuelve) |
+| 🌱 **Junior en datos / software** | [Guía para principiantes](#-guía-para-principiantes) |
 
 ---
 
