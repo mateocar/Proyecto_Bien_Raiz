@@ -17,7 +17,6 @@
 |---|---|
 | 🎯 **Reclutador / RRHH** | [Resumen ejecutivo](#-resumen-ejecutivo) |
 | 🌱 **Junior en datos / software** | [Guía para principiantes](#-guía-para-principiantes) |
-| 🤝 **Colaborador del proyecto** | [Cómo contribuir](#-cómo-contribuir) |
 | 💻 **Desarrollador senior** | [Documentación técnica](#-documentación-técnica) |
 | 👀 **Solo curioso** | [¿Qué problema resuelve?](#-qué-problema-resuelve) |
 
